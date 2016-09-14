@@ -1,0 +1,8 @@
+#
+# This is the email aliases file, mapping secondary addresses
+# onto a single, canonical address.
+#
+corbet@eklektix.com	corbet@lwn.net
+serge.fdrv@gmail.com	sergey.fedorov@linaro.org
+bobby.prani+qemu@gmail.com	bobby.prani@gmail.com
+marcandre.lureau@gmail.com	marcandre.lureau@redhat.com
